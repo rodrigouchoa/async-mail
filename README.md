@@ -1,7 +1,7 @@
 ##Sample Java EE 7 Project with asynchronous mail on transaction success
 
 Read the blog post:
-- pending
+- http://rodrigouchoa.wordpress.com/2014/10/22/cdi-ejb-sending-asynchronous-mail-on-transaction-success/
 
 The application comes with its own embedded H2 database, which is started up and shutdown
 automatically. Each time you run the app, the database is initialized from scratch.
